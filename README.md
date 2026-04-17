@@ -1,6 +1,3 @@
-# non-technical-agentic-coding
-Building an iOS App as a non-technical person with Claude Code. Sharing my CLAUDE.md and BACKLOG.md set up.
-
 # CLAUDE.md + BACKLOG.md: An Agentic Coding Workflow
 
 A simple two-file system that lets [Claude Code](https://docs.anthropic.com/en/docs/claude-code) work through your project autonomously — reading what to build, writing code, running tests, committing, and moving to the next task — while you stay in control of *what* gets built and *when*.
